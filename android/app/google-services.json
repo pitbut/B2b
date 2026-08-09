@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774152958907",
+    "project_id": "b2baza",
+    "storage_bucket": "b2baza.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774152958907:android:d424780cbdb709a81d4a9e",
+        "android_client_info": {
+          "package_name": "com.robutpit.b2bplatform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBixbLhTmxhuhxnr_F3MpDwmVv1LZ6mo-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
