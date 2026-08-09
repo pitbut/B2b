@@ -1,0 +1,20 @@
+{
+  "appId": "com.robutpit.b2bplatform",
+  "appName": "B2B Platform UZ",
+  "webDir": "www",
+  "server": {
+    "url": "https://b2b.robutpit.com",
+    "cleartext": false,
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 800,
+      "backgroundColor": "#0f172a",
+      "androidScaleType": "CENTER_CROP"
+    }
+  }
+}
